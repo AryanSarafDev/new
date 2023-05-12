@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(255, 225, 148);
+    color: rgb(232, 246, 239);
+}
+
+#apple {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(232, 246, 239);
+    border-radius: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+#mango {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(76, 76, 109);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+
+
+
+
+
+}
+
+.avatar {
+    background-image: url(sa.jpeg);
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+
+    background-position: center;
+
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    
+
+    
+
+    
+
+}
+.name
+{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
